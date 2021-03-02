@@ -1,0 +1,41 @@
+/*navigation styling*/
+
+.nav a{
+    text-decoration: none;
+    color: black;
+    list-style-type: none;
+}
+
+/*jumbotron styling*/
+
+.jumbotron{
+    background-color: black;
+}
+
+.jumbo_title{
+    color: white;
+    margin-left: 20px;
+}
+
+.jumbo_lead{
+    color: white;
+    margin-left: 20px;
+}
+
+/*long text /description*/
+
+.text{
+    margin: 20px;
+}
+
+#phase_1 #phase_2 #phase_3 #phase_4 #phase_5 #phase_6 {
+    margin-left: 20px;
+}
+
+/*card styling*/
+
+/*.card{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}*/
