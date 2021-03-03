@@ -41,6 +41,12 @@
     margin: 20px;
 }
 
+.col{
+    border: 1px red solid;
+    display: flex;
+    justify-content: center;
+}
+
 .col img{
     height: 20vh;
     width: 100px;
