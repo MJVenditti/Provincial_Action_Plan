@@ -9,7 +9,7 @@
 /*jumbotron styling*/
 
 .jumbotron{
-    background-color: black;
+    background-color:blue;
 }
 
 .jumbo_title{
@@ -20,6 +20,11 @@
 .jumbo_lead{
     color: white;
     margin-left: 20px;
+    margin-right: 20px;
+}
+
+#jumbo_2 #jumbo_3 #jumbo_4 #jumbo_5 #jumbo_6{
+
 }
 
 /*jumbotron powerpoint images*/
@@ -29,6 +34,10 @@
 
 .text{
     margin: 20px;
+}
+
+.text span{
+    font-weight: bold;
 }
 
 #phase_1 #phase_2 #phase_3 #phase_4 #phase_5 #phase_6 {
@@ -48,8 +57,14 @@
 }
 
 .col img{
-    height: 20vh;
-    width: 100px;
+    height: 150px;
+    width: 150px;
+}
+
+.col2{
+    border: 1px red solid;
+    display: flex;
+    justify-content: center;
 }
 
 /*.card{
