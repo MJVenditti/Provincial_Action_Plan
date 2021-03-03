@@ -110,5 +110,5 @@
 .btn:hover{
     color: white;
     background-color: rgba(16, 51, 91, 1);
-    border: 2px rgba(16, 51, 91, 1) solid;
+    border: 2px white solid;
 }
